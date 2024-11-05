@@ -1,0 +1,1 @@
+This is a collection of recipes i've created or adapted. I recommend enabling soft line wrapping to read the recipes. All spices should be adjusted to taste, and changes/substitutions that turn out good are encouraged to fork or make pull requests.
